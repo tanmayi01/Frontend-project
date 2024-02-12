@@ -1,4 +1,1 @@
-# Frontend-project
-# U will find this project in master branch.
-#It took more than three days to complete this project. According to the sources I have and knowledge I do have, I have created an application which is front end application on the requirements of the company. Firstly I have created a header section with the help of flex concept and I have created a body part consists of challenges, and tech services of the company. And it is followed by the trusted leading organizations and reviews of companies ,and many more and with footer section of linkedin ,facebook and twitter links.I have spent most of my time in matching exact fonts and colors of the reference and designing its custom view.
-/*https://drive.google.com/file/d/1bFdGCCcFulz2yUGpHn_JMFnqMcavdenk/view?usp=drive_link*/-->video of the ouput
+
